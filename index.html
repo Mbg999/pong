@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8">
+        <title>Pong</title>
+        <link rel="stylesheet" type="text/css" href="css/styles.css">
+    </head>
+
+    <body>
+        <canvas id="pista" height="400" width="600">
+            Your browser doesn't support canvas
+        </canvas>
+        <button type="button" id="start">Start</button>
+        <div>
+            <p>Background music</p>
+            <audio id="bgSound" controls autoplay volume="0.5">
+                <source src="sounds/bg.mp3" type="audio/mpeg">
+            </audio>
+            <p>
+                <a href="https://developers.google.com/web/updates/2017/09/autoplay-policy-changes">
+                    Why the autoplay doesn't work?
+                </a>
+            </p>
+        </div>
+        
+
+        <script src="js/classess.js"></script>
+        <script src="js/script.js"></script>
+    </body>
+</html>

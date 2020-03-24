@@ -1,0 +1,15 @@
+/* RESETS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* /RESETS*/
+
+/* CANVAS PISTA */
+#pista {
+    background-color: rgb(167, 194, 167);
+    display: block;
+    margin: auto;
+}
+/* /CANVAS PISTA */
