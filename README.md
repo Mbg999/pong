@@ -12,3 +12,5 @@ Simple pong game written in html, canvas and javascript, and it has sounds :D
 
 ![pong image](https://i.imgur.com/sKgnauX.png)
 
+https://mbg999.github.io/pong/
+
